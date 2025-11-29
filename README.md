@@ -88,7 +88,7 @@
 
 <div align='center'>
 
-<a href="https://linkedin.com/in/luisfernandez" target="_blank">
+<a href="https://linkedin.com/in/luis-fernández123/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;

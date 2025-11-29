@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;
-<a href="https://github.com/luisfernandez" target="_blank">
+<a href="https://github.com/Ludwiigdev" target="_blank">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 &nbsp;
@@ -100,7 +100,7 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/luisfernandez" target="_blank">
+<a href="x.com/LuisFer21498206" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
 </a>
 

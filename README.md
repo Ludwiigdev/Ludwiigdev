@@ -100,7 +100,7 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 &nbsp;
-<a href="x.com/LuisFer21498206" target="_blank">
+<a href="https://x.com/LuisFer21498206" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
 </a>
 

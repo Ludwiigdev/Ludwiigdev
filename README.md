@@ -1,3 +1,8 @@
+<!-- PORTADA PRINCIPAL -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LUIS%20FERNÁNDEZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
 <h1 align="center"><b>Hi 👋, I'm Luis Fernández</b>  <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"></h1>
 
 <p align="center">
@@ -7,19 +12,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=luisfernandez&label=Profile%20views&color=0e75b6&style=flat" alt="luisfernandez" /> 
 </p>
-
-<br>
-
-<!-- PORTADA PRINCIPAL -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LUIS%20FERNÁNDEZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Developer+%F0%9F%92%BB;Technology+Enthusiast+%E2%9A%A1;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
-</div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
